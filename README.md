@@ -7,7 +7,7 @@ An example is listed above.
 
 ```shell
 Option  "Tap Minimum Pressure" "0.1" # the pressure to trigger tap-to-click (the less the easier)
-Option. "Tap Move Distance" "9" # the distance to trigger tap dragging (the more the easier)
+Option  "Tap Move Distance" "9" # the distance to trigger tap dragging (the more the easier)
 ```
 ## Second step: change passwd
 ```
