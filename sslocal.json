@@ -1,0 +1,9 @@
+{
+	"server":"120.77.215.174",
+  	"local_address": "127.0.0.1",
+	"local_port":1080,
+	"server_port":20546,
+	"password":"606606606",
+	"timeout":300,
+	"method":"rc4-md5"
+	}
